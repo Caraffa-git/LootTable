@@ -1,0 +1,8 @@
+name: LootTable
+version: ${project.version}
+main: me.caraffa.loottable.main
+api-version: 1.16
+authors: [Caraffa_hash_2500]
+description: in authors you have my discord id
+commands:
+  getrandom:
